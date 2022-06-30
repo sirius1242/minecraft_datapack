@@ -6,4 +6,5 @@
 - stonecuttor recipes for blocks related to copper count fix (same as 1.18, 4 multiple ratio compare to 1.17.1 ones):
 
 ![copper block](../figs/copper_block.png)
-![copper block](../figs/slabs_stairs.png)
+![copper block](../figs/copper_slabs.png)
+![copper block](../figs/copper_stairs.png)
